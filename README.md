@@ -1,6 +1,6 @@
 # Sudoku
 
-This is a simple sudoku game solver that takes in any solvable puzzle and returns True if the board is solvable.
+This is a simple sudoku game solver which uses a backtracking algorithm to complete any solvable puzzle and returns True if the board is solvable.
 
 It contains a print grid function that allows you to see the completed board. I will be updating this repository to include a puzzle generator and GUI for the game.
 
