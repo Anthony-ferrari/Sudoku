@@ -16,4 +16,4 @@ print_grid(grid)
 
 Enjoy the game!
 
-![](https://image.shutterstock.com/image-vector/sudoku-puzzle-game-vector-numbers-260nw-411301252.jpg)
+![](https://i.stack.imgur.com/PIc88.png)
